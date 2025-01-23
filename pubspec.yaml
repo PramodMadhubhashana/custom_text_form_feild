@@ -1,7 +1,7 @@
 name: custom_text_form_feild
 description: "Custom TextFormFeild"
 version: 0.0.1
-homepage:
+homepage: https://github.com/PramodMadhubhashana/custom_text_form_feild.git
 
 environment:
   sdk: ^3.6.0
